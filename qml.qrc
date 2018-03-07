@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>TitleBar.qml</file>
+        <file>MainWidget.qml</file>
+        <file>LeftWidget.qml</file>
+        <file>MyButton.qml</file>
+        <file>StaffWidget.qml</file>
+        <file>StaffTableView.qml</file>
+        <file>CarTableView.qml</file>
+        <file>CarWidget.qml</file>
+        <file>CarReTableView.qml</file>
+        <file>CarReWidget.qml</file>
+        <file>FineTableView.qml</file>
+        <file>FineWidget.qml</file>
+        <file>SalaryTableView.qml</file>
+        <file>SalaryWidget.qml</file>
+        <file>StaffAddWindows.qml</file>
+        <file>RectItem.qml</file>
+        <file>StaffModifyWidget.qml</file>
+        <file>CarModifyWidget.qml</file>
+        <file>SalaryModifyWidget.qml</file>
+        <file>CarReModifyWidget.qml</file>
+        <file>FineModifyWidget.qml</file>
+        <file>ScheduleTableView.qml</file>
+        <file>ScheduleWidget.qml</file>
+        <file>ScheduleModifyWidget.qml</file>
+        <file>StationTableView.qml</file>
+        <file>StationWidget.qml</file>
+        <file>StationModifyWidget.qml</file>
+        <file>LineTreeView.qml</file>
+        <file>LineWidget.qml</file>
+        <file>LineTableView.qml</file>
+        <file>LineModifyWidget.qml</file>
+        <file>LoginWidget.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
